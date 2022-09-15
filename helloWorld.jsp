@@ -7,7 +7,7 @@
 <style>
         body {
             margin: 0px;
-            background: #000;
+            background: #dde0f1;
         }
 
         .crcl {
@@ -182,6 +182,7 @@
 </div>
 <div class="details">
     <h1>DevOps Final Project Game</h1>
+    <h2>By Daniel Gelfand & Matan Bar </h2>
     <h3>Click on a difficulty to start the game</h3>
     <div class="level">
         <button onclick="easy()">EASY</button>
