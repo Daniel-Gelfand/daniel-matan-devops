@@ -11,8 +11,8 @@
         }
 
         .crcl {
-            width: 120px;
-            height: 120px;
+            width: 150px;
+            height: 150px;
             border-radius: 100%;
             position: relative;
             background-image: url(
@@ -181,9 +181,10 @@
     <div id="circle" onclick="count()"></div>
 </div>
 <div class="details">
-    <h1>DevOps Final Project Game</h1>
+    <h1>DevOps Final TEST TEST</h1>
     <h2>By Daniel Gelfand & Matan Bar </h2>
     <h3>Click on a difficulty to start the game</h3>
+   
     <div class="level">
         <button onclick="easy()">EASY</button>
         <button onclick="medium()">MEDIUM</button>
